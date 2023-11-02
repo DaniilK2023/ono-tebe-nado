@@ -383,7 +383,7 @@
 .about__text {
   display: flex;
   flex-direction: column;
-  gap: 25px;
+  gap: 35px;
   color: #000;
   font-family: Raleway, sans-serif;
   font-size: 20px;
@@ -395,7 +395,7 @@
 /* FOOTER */
 
 .footer {
-  margin: 180px auto 0;
+  margin: 189px auto 0;
   display: grid;
 
   width: 1340px;
